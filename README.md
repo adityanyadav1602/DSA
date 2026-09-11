@@ -50,4 +50,5 @@ Advanced Python object models, memory allocation mechanics, and polymorphic patt
 
 - **Aditya N. Yadav**
 - Email: [aditya.n.yadav.dev@gmail.com](mailto:aditya.n.yadav.dev@gmail.com)
+- LinkedIn: [aditya-narayanyadav](https://www.linkedin.com/in/aditya-narayanyadav/)
 - GitHub: [@adityanyadav1602](https://github.com/adityanyadav1602)
